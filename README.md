@@ -25,12 +25,13 @@
 
 ## Description
 
-A software engineering team-generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. Then an HTML page is created that can be easily viewed in a web browser. 
+A software engineering team-generator command line application. The application will prompt the user for information about the team manager and then information about the team member like engineer and intern. The user can input any number of team members. Then an HTML page is created that can be easily viewed in a web browser. 
 
 
 ## Usage
-
-![Screenshot of load page](/media/team-profile-generator-2.png)
+![Screenshot of terminal](/assets/Images/screen1.png) 
+![Screenshot of terminal](/assets/Images/screen2.png) 
+![Screenshot of created html page](/assets/Images/screen3.png) 
 
 ## Installation
 
@@ -65,6 +66,6 @@ Please follow the contribution guidelines!
 ## Contact Information:
 * GitHub Username: [kamilawroblewska](https://github.com/kamilawroblewska)
 * Email: kamila.wroblewska15@gmail.com
-* <p>
-    <a href="www.linkedin.com/in/kamila-wroblewska-bb61142a5"><img alt="Linkedin: Kamila Wroblewska" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+ <p>
+    <a href="https://www.linkedin.com/in/kamila-wroblewska-bb61142a5"><img alt="Linkedin: Kamila Wroblewska" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
     </p>
