@@ -65,6 +65,7 @@ Please follow the contribution guidelines!
 
 ## Contact Information:
 * GitHub Username: [kamilawroblewska](https://github.com/kamilawroblewska)
+* GitHub Repo: [TeamProfileGen](https://github.com/kamilawroblewska/Team-Profile-Generator)
 * Email: kamila.wroblewska15@gmail.com
  <p>
     <a href="https://www.linkedin.com/in/kamila-wroblewska-bb61142a5"><img alt="Linkedin: Kamila Wroblewska" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
